@@ -1,5 +1,5 @@
 # nginx-rtmp-win32
-원본 소스코드 [이동하기].(https://github.com/nginx/nginx)
+원본 소스코드 [이동하기](https://github.com/nginx/nginx)
 ```
 auto/configure \
     --with-cc=cl \
