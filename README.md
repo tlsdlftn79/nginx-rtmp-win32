@@ -45,6 +45,7 @@ auto/configure \
 # visual studio 2019 build tools
 컴파일 재료
 비주얼 스튜디오 2019 빌드 도구 [다운받기](https://my.visualstudio.com/Downloads?q=visual%20studio%202019)
+
 비주얼 스튜디오 2022 소스 수정중
 
 # 컴파일 하기전에
