@@ -13,8 +13,7 @@
 
 #NGX_MSVC_VER=`$NGX_WINE $CC 2>&1 | grep 'Compiler Version' 2>&1 \
 #                                 | sed -e 's/^.* Version \(.*\)/\1/'`
-
-NGX_MSVC_VER=19.27
+NGX_MSVC_VER=19.32
 
 echo " + cl version: $NGX_MSVC_VER"
 

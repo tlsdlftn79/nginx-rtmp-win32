@@ -10,8 +10,8 @@
  * https://www.openssl.org/source/license.html
  */
 
-#define PLATFORM "platform: VC-WIN32"
-#define DATE "built on: Wed Jun  8 14:09:52 2022 UTC"
+#define PLATFORM "platform: VC-WIN64A"
+#define DATE "built on: Wed Jun 29 08:48:38 2022 UTC"
 
 /*
  * Generate compiler_flags as an array of individual characters. This is a
